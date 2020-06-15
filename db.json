@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20",
+      "price": 5000.89
+    },
+    {
+      "id": 4
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.98,
+      "id": 5
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 6
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 7
+    },
+    {
+      "name": "Veio do Formulário",
+      "price": "9.99",
+      "id": 8
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 9
+    },
+    {
+      "name": "Processador Xeon",
+      "price": "2,500",
+      "id": 10
+    }
+  ]
+}
